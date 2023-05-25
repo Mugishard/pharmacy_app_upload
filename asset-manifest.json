@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Mugishard/pharmacy_app_upload.git/static/css/main.91e7cc83.css",
-    "main.js": "/Mugishard/pharmacy_app_upload.git/static/js/main.fd8cfb61.js",
-    "index.html": "/Mugishard/pharmacy_app_upload.git/index.html",
-    "main.91e7cc83.css.map": "/Mugishard/pharmacy_app_upload.git/static/css/main.91e7cc83.css.map",
-    "main.fd8cfb61.js.map": "/Mugishard/pharmacy_app_upload.git/static/js/main.fd8cfb61.js.map"
+    "main.css": "/pharmacy_app_upload/static/css/main.91e7cc83.css",
+    "main.js": "/pharmacy_app_upload/static/js/main.fd8cfb61.js",
+    "index.html": "/pharmacy_app_upload/index.html",
+    "main.91e7cc83.css.map": "/pharmacy_app_upload/static/css/main.91e7cc83.css.map",
+    "main.fd8cfb61.js.map": "/pharmacy_app_upload/static/js/main.fd8cfb61.js.map"
   },
   "entrypoints": [
     "static/css/main.91e7cc83.css",
